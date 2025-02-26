@@ -7,9 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is using technology to solve real world problems.
 Importance of Software engineering in the technology industry
--Software engineering is crucial for building and maintaining essential systems in today's world.
--It also provides the tools and methodologies to tackle complex challenges, from data analysis and artificial intelligence to cybersecurity and climate modeling.
-
+-Software engineering is crucial as it is a backbone at the modern world.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1960s - The Software Crisis
@@ -21,7 +19,8 @@ Agile methodologies emphasized iterative development, collaboration, and rapid r
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirements Gathering: Defining the software's purpose, functionality, and constraints based on user needs.   
+Idea generation.
+Requirements analysis: Defining the software's purpose, functionality, and constraints based on user needs.   
 Design: Creating the architecture, user interface, and technical specifications of the software.
 Implementation (Coding): Writing the actual code based on the design.
 Testing: Verifying that the software meets the requirements and is free of defects.   
