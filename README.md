@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is using technology to solve real world problems.
+Software engineering is the art and science of designing,building and implementing softwares to solve real world problems.
 Importance of Software engineering in the technology industry
 -Software engineering is crucial as it is a backbone at the modern world.
 
@@ -19,12 +19,11 @@ Agile methodologies emphasized iterative development, collaboration, and rapid r
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Idea generation.
-Requirements analysis: Defining the software's purpose, functionality, and constraints based on user needs.   
-Design: Creating the architecture, user interface, and technical specifications of the software.
-Implementation (Coding): Writing the actual code based on the design.
-Testing: Verifying that the software meets the requirements and is free of defects.   
-Deployment: Releasing the software to users.   
+Planning.Defining the software's purpose, functionality, and constraints based on user needs.
+Designing: Creating the architecture, user interface, and technical specifications of the software.
+Developing: Writing the actual code based on the design.
+Testing: Verifying that the software meets the requirements and is free of defects. 
+Deployment:    Releasing the software to users.   
 Maintenance: Fixing bugs, adding features, and ensuring the software continues to function correctly.
 
 
@@ -59,7 +58,7 @@ Acceptance Testing: Letting the user try it out, like showing your LEGO creation
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
- Prompt engineering involves carefully choosing words, structuring sentences, and sometimes even providing examples or context to guide the AI towards the desired output.
+ Prompt engineering involves writing instructions to get the best results from AI models.
  Importance:A well-crafted prompt can make the difference between a useless, generic response and a highly relevant, informative, or creative one.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
